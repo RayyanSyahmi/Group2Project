@@ -1,2 +1,3 @@
 initiallized mobile.txt
 Rayyan 27/9 00:00 : added cart and checkout pages
+Rayyan 27/9 01.16 : added payment and order confirmed pages
