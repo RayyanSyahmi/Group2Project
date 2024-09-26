@@ -1,2 +1,2 @@
-Group project for LDCW6123
+Group project for LDCW6123.
 The goal of the project is to make an e-commerce website, app prototype, and user manual. We have chosen the base the project on Sweet Tooth, a mock company made during assignmnent 1. The website will be made in Wix Studios. The prototype will be made in Figma, and the manual will be made in Canva. The group consists of 5 members, with 2 members working on the website, 2 members working on the prototype, and the other working on the manual
