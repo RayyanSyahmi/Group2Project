@@ -1,1 +1,4 @@
 initiallized web.txt
+
+HOME PAGE PRODUCT
+MENU PAGE PRODUCT
