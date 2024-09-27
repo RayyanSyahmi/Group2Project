@@ -4,3 +4,4 @@ Rayyan 27/9 01.16 : added payment and order confirmed page
 Amira 26/9 4:30 : added homepage, sign up page, login page and product page
 Amira 27/9 3:28 : added product details page and wishlist page
 Amira 27/9 5:16 : adjust all pages
+Rayyan 27/9 08:34 : added delivery and invoice pages
